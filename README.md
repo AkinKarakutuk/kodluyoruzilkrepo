@@ -6,7 +6,6 @@ Bu repo [kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturd
 <br>
 
 ## Installation
----
 <br>
 
 Öncelikle projeyi clonelayın. &nbsp; (Buraya sizin reponuzdan aldığınız link gelecek)
@@ -20,7 +19,6 @@ Bu repo [kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturd
 <br><br>
 
 ## Usage
----
 <br>
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.  
 
@@ -38,13 +36,11 @@ Linux için:
 <br><br>
 
 ## Contributing 
----
 <br> 
 Pull requestler kabul edilir. Büyük değişikler için, lütfen neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 <br><br>
 
 ## License
----
 <br>
 
 [MIT](https://choosealicense.com/licenses/mit/)
